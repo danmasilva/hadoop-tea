@@ -1,2 +1,2 @@
 # hadoop-tea
-Hadoop classes - Algorithms Special Topics
+Hadoop classes - Tópicos Especiais em Algoritmos
